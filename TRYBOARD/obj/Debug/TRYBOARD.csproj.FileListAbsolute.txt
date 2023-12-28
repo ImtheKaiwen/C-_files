@@ -1,7 +1,0 @@
-C:\Users\w11\Desktop\c#\learning c#\TRYBOARD\bin\Debug\TRYBOARD.exe.config
-C:\Users\w11\Desktop\c#\learning c#\TRYBOARD\bin\Debug\TRYBOARD.exe
-C:\Users\w11\Desktop\c#\learning c#\TRYBOARD\bin\Debug\TRYBOARD.pdb
-C:\Users\w11\Desktop\c#\learning c#\TRYBOARD\obj\Debug\TRYBOARD.csproj.AssemblyReference.cache
-C:\Users\w11\Desktop\c#\learning c#\TRYBOARD\obj\Debug\TRYBOARD.csproj.CoreCompileInputs.cache
-C:\Users\w11\Desktop\c#\learning c#\TRYBOARD\obj\Debug\TRYBOARD.exe
-C:\Users\w11\Desktop\c#\learning c#\TRYBOARD\obj\Debug\TRYBOARD.pdb
