@@ -1,0 +1,7 @@
+C:\Users\w11\Desktop\c#\learning c#\vectoral multiplication\bin\Debug\vectoral multiplication.exe.config
+C:\Users\w11\Desktop\c#\learning c#\vectoral multiplication\bin\Debug\vectoral multiplication.exe
+C:\Users\w11\Desktop\c#\learning c#\vectoral multiplication\bin\Debug\vectoral multiplication.pdb
+C:\Users\w11\Desktop\c#\learning c#\vectoral multiplication\obj\Debug\vectoral multiplication.csproj.AssemblyReference.cache
+C:\Users\w11\Desktop\c#\learning c#\vectoral multiplication\obj\Debug\vectoral multiplication.csproj.CoreCompileInputs.cache
+C:\Users\w11\Desktop\c#\learning c#\vectoral multiplication\obj\Debug\vectoral multiplication.exe
+C:\Users\w11\Desktop\c#\learning c#\vectoral multiplication\obj\Debug\vectoral multiplication.pdb

@@ -1,0 +1,7 @@
+C:\Users\w11\Desktop\c#\learning c#\Yazı yazma hızı\bin\Debug\Yazı yazma hızı.exe.config
+C:\Users\w11\Desktop\c#\learning c#\Yazı yazma hızı\bin\Debug\Yazı yazma hızı.exe
+C:\Users\w11\Desktop\c#\learning c#\Yazı yazma hızı\bin\Debug\Yazı yazma hızı.pdb
+C:\Users\w11\Desktop\c#\learning c#\Yazı yazma hızı\obj\Debug\Yazı yazma hızı.csproj.AssemblyReference.cache
+C:\Users\w11\Desktop\c#\learning c#\Yazı yazma hızı\obj\Debug\Yazı yazma hızı.csproj.CoreCompileInputs.cache
+C:\Users\w11\Desktop\c#\learning c#\Yazı yazma hızı\obj\Debug\Yazı yazma hızı.exe
+C:\Users\w11\Desktop\c#\learning c#\Yazı yazma hızı\obj\Debug\Yazı yazma hızı.pdb

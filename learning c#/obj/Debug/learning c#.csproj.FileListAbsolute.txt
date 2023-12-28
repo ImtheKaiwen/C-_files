@@ -1,0 +1,7 @@
+C:\Users\w11\Desktop\c#\learning c#\learning c#\bin\Debug\learning c#.exe.config
+C:\Users\w11\Desktop\c#\learning c#\learning c#\bin\Debug\learning c#.exe
+C:\Users\w11\Desktop\c#\learning c#\learning c#\bin\Debug\learning c#.pdb
+C:\Users\w11\Desktop\c#\learning c#\learning c#\obj\Debug\learning c#.csproj.AssemblyReference.cache
+C:\Users\w11\Desktop\c#\learning c#\learning c#\obj\Debug\learning c#.csproj.CoreCompileInputs.cache
+C:\Users\w11\Desktop\c#\learning c#\learning c#\obj\Debug\learning c#.exe
+C:\Users\w11\Desktop\c#\learning c#\learning c#\obj\Debug\learning c#.pdb

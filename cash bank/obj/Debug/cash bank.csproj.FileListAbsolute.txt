@@ -1,0 +1,7 @@
+C:\Users\w11\Desktop\c#\learning c#\cash bank\obj\Debug\cash bank.csproj.AssemblyReference.cache
+C:\Users\w11\Desktop\c#\learning c#\cash bank\obj\Debug\cash bank.csproj.CoreCompileInputs.cache
+C:\Users\w11\Desktop\c#\learning c#\cash bank\bin\Debug\cash bank.exe.config
+C:\Users\w11\Desktop\c#\learning c#\cash bank\bin\Debug\cash bank.exe
+C:\Users\w11\Desktop\c#\learning c#\cash bank\bin\Debug\cash bank.pdb
+C:\Users\w11\Desktop\c#\learning c#\cash bank\obj\Debug\cash bank.exe
+C:\Users\w11\Desktop\c#\learning c#\cash bank\obj\Debug\cash bank.pdb

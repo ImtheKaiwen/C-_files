@@ -1,0 +1,7 @@
+C:\Users\w11\Desktop\c#\learning c#\fact calculator\bin\Debug\fact calculator.exe.config
+C:\Users\w11\Desktop\c#\learning c#\fact calculator\bin\Debug\fact calculator.exe
+C:\Users\w11\Desktop\c#\learning c#\fact calculator\bin\Debug\fact calculator.pdb
+C:\Users\w11\Desktop\c#\learning c#\fact calculator\obj\Debug\fact calculator.csproj.AssemblyReference.cache
+C:\Users\w11\Desktop\c#\learning c#\fact calculator\obj\Debug\fact calculator.csproj.CoreCompileInputs.cache
+C:\Users\w11\Desktop\c#\learning c#\fact calculator\obj\Debug\fact calculator.exe
+C:\Users\w11\Desktop\c#\learning c#\fact calculator\obj\Debug\fact calculator.pdb
